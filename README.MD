@@ -9,19 +9,6 @@ This repository contains a Python script, `ascii.py`, designed to convert image 
 - **Brightness Mapping**: Maps image pixels to a set of ASCII characters based on brightness levels.
 - **Text Editor Compatibility**: Generates ASCII art that can be viewed in any text editor or console.
 
-## Examples 
-
-This repository contains a Python script, `ascii.py`, designed to convert image files into ASCII art. By leveraging the Pillow library for image processing, it can transform any given image into a masterpiece made entirely of ASCII characters.
-
-Here are some examples of ASCII art created using this script:
-
-- Example of converting an image of an apple into ASCII art:
-![alt text](apple.png)
-
-- Example of converting a screenshot into ASCII art:
-![alt text](<スクリーンショット 2024-03-16 005839.png>)
-
-These examples illustrate the script's ability to turn images into ASCII art, which can be viewed in any text editor or console, providing a unique method to repurpose and enjoy your favorite images in a new form.
 
 ## Usage
 
